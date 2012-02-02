@@ -1,0 +1,36 @@
+﻿body 
+{
+    text-align:center;
+    color:White;
+    background:Green;
+    margin-bottom: 15px;
+}
+
+img
+{
+    padding-right: 5px;
+}
+#divBoardContainer
+{ 
+    
+    position:fixed;
+    right: 1%;
+    left:1%;
+    top: 5%;
+    bottom:5%;
+}
+#divPlayersContainer
+{
+    border: 1px solid black;
+    height:50%;
+    width:inherit;
+    clear:both;
+    
+}   
+#divDealerContainer
+{
+   border:1px solid black;    
+    height:50%;
+    width:inherit;
+    clear:both;
+}

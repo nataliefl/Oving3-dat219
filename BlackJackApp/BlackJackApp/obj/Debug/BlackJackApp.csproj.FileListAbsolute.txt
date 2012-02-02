@@ -1,0 +1,10 @@
+C:\Users\Magnus\Documents\Visual Studio 2010\Projects\BlackJackApp\BlackJackApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Magnus\Documents\Visual Studio 2010\Projects\BlackJackApp\BlackJackApp\bin\BlackJackApp.dll
+C:\Users\Magnus\Documents\Visual Studio 2010\Projects\BlackJackApp\BlackJackApp\bin\BlackJackApp.pdb
+C:\Users\Magnus\Documents\Visual Studio 2010\Projects\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.dll
+C:\Users\Magnus\Documents\Visual Studio 2010\Projects\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.pdb
+C:\Users\Magnus\Dropbox\CSharp\Div prosjekter\Projects\BlackJackApp\BlackJackApp\bin\BlackJackApp.dll
+C:\Users\Magnus\Dropbox\CSharp\Div prosjekter\Projects\BlackJackApp\BlackJackApp\bin\BlackJackApp.pdb
+C:\Users\Magnus\Dropbox\CSharp\Div prosjekter\Projects\BlackJackApp\BlackJackApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Magnus\Dropbox\CSharp\Div prosjekter\Projects\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.dll
+C:\Users\Magnus\Dropbox\CSharp\Div prosjekter\Projects\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.pdb
